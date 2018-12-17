@@ -1,7 +1,10 @@
 html{
   background-color: linen;
+  text-align: center;
 }
-
+li{
+  font-weight: bold;
+}
 h1 {
   text-align: center;
 }
